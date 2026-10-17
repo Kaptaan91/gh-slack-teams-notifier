@@ -1,0 +1,13 @@
+{
+  "name": "gh-slack-teams-notifier",
+  "version": "1.0.0",
+  "description": "Self-hosted GitHub webhook notifier for Slack and Microsoft Teams",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "MIT"
+}
